@@ -1,1 +1,2 @@
 This is my first Git exercise for PA1489
+I am learning Git.
