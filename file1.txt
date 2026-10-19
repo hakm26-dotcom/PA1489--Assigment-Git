@@ -1,2 +1,3 @@
 This is my first Git exercise for PA1489
 I am learning Git.
+Practising editing an existing file on the practice branch.
